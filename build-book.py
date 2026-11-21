@@ -59,7 +59,7 @@ class Leaf:
         return svg(''.join(self.parts)+f'<path d="M52 789H543" stroke="#c3b89b" stroke-width=".45"/>'+text(52,804,'HISTORIA MAGIAE · HOGWARTS · MDCCCXC',6.5,MUTED)+text(543,804,folio,8,MUTED,anchor='end'))
 
 def svg(body):
-    return '<svg xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842"><defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter><pattern id="paper" width="595" height="842" patternUnits="userSpaceOnUse"><rect width="595" height="842" filter="url(#grain)" opacity=".17"/></pattern><linearGradient id="leather"><stop stop-color="#111f34"/><stop offset=".12" stop-color="#294260"/><stop offset=".6" stop-color="#1b304a"/><stop offset="1" stop-color="#101d30"/></linearGradient></defs>'+body+'</svg>'
+    return '<svg xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842"><defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter><pattern id="paper" width="595" height="842" patternUnits="userSpaceOnUse"><rect width="595" height="842" filter="url(#grain)" opacity=".17"/></pattern><linearGradient id="leather"><stop stop-color="#0c192c"/><stop offset=".12" stop-color="#294b73"/><stop offset=".6" stop-color="#183657"/><stop offset="1" stop-color="#081426"/></linearGradient></defs>'+body+'</svg>'
 
 def add(leaf,chapter=None):
     idx=len(PAGES);folio=f'{idx+1:02}'
@@ -186,6 +186,7 @@ assert len(PAGES)==110,len(PAGES)
 assert len(DATA['lessons'])==28
 for item in PAGES:item['image']+='?v=20261121-1'
 packed={'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS}
+for cover_index in (0,len(PAGES)-1):PAGES[cover_index]['image']=PAGES[cover_index]['image'].split('?')[0]+'?v=20261121-cover2'
 (ROOT/'book-data.json').write_text(json.dumps(packed,ensure_ascii=False,indent=2)+'\n')
 index=ROOT/'index.html'
 embedded=json.dumps(packed,ensure_ascii=False).replace('</','<\\/')
