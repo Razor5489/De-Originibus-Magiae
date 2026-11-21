@@ -1,0 +1,1017 @@
+{
+  "title": "De Originibus Magiae",
+  "author": "Theobald Ainsworth",
+  "setting": 1890,
+  "years": [
+    {
+      "name": "Le origini",
+      "goal": "Dai Fondatori alle comunità antiche: comprendere come una conoscenza diventi patrimonio condiviso."
+    },
+    {
+      "name": "Persone, racconti e leggende",
+      "goal": "Distinguere persone storiche, tradizioni e giudizi, confrontando le forme della memoria."
+    },
+    {
+      "name": "Maghi e Babbani",
+      "goal": "Comprendere convivenza, persecuzioni e Segretezza senza ridurre il passato a un’unica esperienza."
+    },
+    {
+      "name": "La Gran Bretagna magica",
+      "goal": "Seguire la costruzione delle istituzioni e distinguere amministrazione, giustizia e libertà."
+    },
+    {
+      "name": "Istruzione e cittadinanza",
+      "goal": "Collegare preparazione scolastica, rappresentanza e responsabilità del governo."
+    },
+    {
+      "name": "Il secolo del cambiamento",
+      "goal": "Leggere il progresso attraverso lavoro, produzione, ricerca e responsabilità."
+    },
+    {
+      "name": "Storia, verità e memoria",
+      "goal": "Confrontare documenti e ricostruire il passato dichiarando prove, ipotesi e limiti."
+    }
+  ],
+  "lessons": [
+    {
+      "year": 1,
+      "meeting": 1,
+      "week": 1,
+      "title": "I Quattro Fondatori",
+      "subtitle": "La nascita di Hogwarts, intorno al 990",
+      "theory": [
+        "Intorno al 990 Godric Grifondoro, Priscilla Corvonero, Edvige Tassorosso e Salazar Serpeverde unirono le proprie conoscenze per fondare Hogwarts. Il progetto offriva una sede stabile all’insegnamento in un mondo nel quale la formazione dipendeva soprattutto dalle famiglie e dalle comunità. Una scuola comune non era un esito inevitabile: richiedeva fiducia, risorse e accordi tra persone differenti.",
+        "Coraggio e determinazione, conoscenza e intelligenza, impegno e lealtà, ambizione e astuzia entrarono nell’eredità delle quattro Case. Questi orientamenti aiutano a comprendere un progetto educativo; non costituiscono un ritratto completo di ogni Fondatore né una misura del valore dei singoli studenti.",
+        "Il contrasto sull’ammissione degli allievi di origine babbana separò Salazar dagli altri Fondatori e lo condusse ad abbandonare la scuola. La sua partenza non cancellò la Casa che porta il suo nome. Lo storico distingue l’istituzione, che continua nel tempo, dalle scelte e dai conflitti delle persone che la fondarono."
+      ],
+      "notions": [
+        [
+          "Una fondazione è un processo",
+          "La data orientativa colloca l’origine; non significa che ogni edificio, regola e consuetudine attuale esistesse già."
+        ],
+        [
+          "Persona e simbolo",
+          "Una tradizione può conservare una qualità attribuita a un Fondatore senza documentare ogni episodio della sua vita."
+        ],
+        [
+          "Eredità condivisa",
+          "La cooperazione iniziale e il dissenso successivo appartengono entrambi alla storia di Hogwarts."
+        ]
+      ],
+      "opening": "Affidereste la vostra istruzione a una scuola appena fondata, della quale nessuno conosce ancora il futuro?",
+      "steps": [
+        "Scrivere i quattro nomi e associare a ciascuno il criterio educativo ricordato dal programma.",
+        "Classificare tre frasi: Hogwarts ebbe quattro Fondatori; uno fu il migliore; tutte le decisioni furono unanimi.",
+        "Separare il fatto della fondazione, il giudizio sul valore e la falsa idea di un accordo permanente."
+      ],
+      "question": "Conoscere una qualità ricordata dalla tradizione permette di ricostruire tutta la persona?",
+      "answer": "No. Una qualità sintetizza un’eredità educativa; una biografia richiede testimonianze e contesto. Non tutti i giudizi sul carattere hanno lo stesso valore dei fatti documentati.",
+      "source": "Programma, lezione 1; Manuale, III anno, Hogwarts."
+    },
+    {
+      "year": 1,
+      "meeting": 2,
+      "week": 1,
+      "title": "Prima di Hogwarts",
+      "subtitle": "Comunità britanniche, consuetudini e accordi",
+      "theory": [
+        "Prima delle grandi istituzioni la conoscenza circolava attraverso famiglie, maestri e piccole comunità. Le tradizioni locali potevano custodire competenze importanti, ma l’accesso dipendeva dai rapporti personali. Due giovani della stessa età potevano ricevere preparazioni molto diverse senza che questa differenza dimostrasse una diversa capacità di apprendere.",
+        "Nel percorso britannico del programma, il Patto di Caer Daran del 382 rappresenta il riconoscimento di obblighi comuni. Le Tavole di Morcant del 417 richiamano il passaggio dalla consuetudine alla conservazione scritta. Questi riferimenti mostrano esigenze differenti: stabilire un accordo e rendere trasmissibile una conoscenza.",
+        "La Contesa dei Sette Pozzi, dal 463 al 474, ricorda che collaborazione e conflitto potevano coesistere. L’assenza del Ministero non equivaleva all’assenza di regole. Significava piuttosto che autorità, mezzi di controllo e accordi avevano un’organizzazione diversa da quella conosciuta nel 1890."
+      ],
+      "notions": [
+        [
+          "Consuetudine",
+          "Una pratica riconosciuta da una comunità può orientare le decisioni anche prima di una legge scritta."
+        ],
+        [
+          "Accordo e applicazione",
+          "Stabilire una regola non risolve da solo chi debba interpretarla e farla rispettare."
+        ],
+        [
+          "Risorse e conflitti",
+          "Interessi incompatibili possono produrre tensioni anche tra comunità capaci di commerciare e collaborare."
+        ]
+      ],
+      "opening": "Se tre comunità dipendessero dalla stessa pianta rara, chi dovrebbe decidere come dividerla?",
+      "steps": [
+        "Dividere la classe in tre comunità per un caso immaginario di risorsa insufficiente.",
+        "Far proporre un accordo, un criterio di distribuzione e un modo per risolvere le violazioni.",
+        "Confrontare l’accordo ottenuto con le funzioni di un patto e di una regola conservata per iscritto."
+      ],
+      "question": "Perché l’assenza del Ministero non dimostra che ciascuno potesse fare qualsiasi cosa?",
+      "answer": "Perché consuetudini, accordi e autorità locali potevano già regolare i rapporti. Il problema è ricostruire chi riconoscesse quelle regole e con quali strumenti fossero applicate.",
+      "source": "Programma, lezione 2."
+    },
+    {
+      "year": 1,
+      "meeting": 3,
+      "week": 2,
+      "title": "Le tracce della magia antica",
+      "subtitle": "Preistoria, scrittura e interpretazione",
+      "theory": [
+        "Studiare le origini significa interrogare testimonianze molto diverse dai registri di un’amministrazione. Un oggetto, un’immagine o un luogo possono essere conservati senza che sia giunta fino a noi una spiegazione del loro uso. L’assenza di scrittura rende spesso più difficile distinguere intenzione, significato simbolico e risultato concreto.",
+        "Il manuale richiama riti, rappresentazioni e oggetti delle società antiche. Questi materiali aiutano a studiare ciò che una comunità temeva, sperava o considerava importante. Una figura di caccia, tuttavia, non prova da sola che un incantesimo abbia prodotto l’esito desiderato. Il significato attribuito al rito e la dimostrazione della sua efficacia sono domande diverse.",
+        "Con la scrittura, nelle civiltà mesopotamiche ed egizie, diventa possibile conservare descrizioni e procedure con maggiore continuità. Ma una fonte scritta deve ancora essere interpretata: lingua, funzione e ambiente di produzione contano. Nessuno di questi indizi permette di fissare con certezza un unico momento nel quale sarebbe nata tutta la magia."
+      ],
+      "notions": [
+        [
+          "Preistoria",
+          "Indica un passato studiato senza testimonianze scritte dirette delle comunità considerate; non è sinonimo di assenza di cultura."
+        ],
+        [
+          "Traccia e spiegazione",
+          "Il reperto è ciò che esaminiamo; la sua funzione è una ricostruzione da motivare."
+        ],
+        [
+          "Rito propiziatorio",
+          "È rivolto a ottenere un esito favorevole. La descrizione dello scopo non certifica il successo di ogni esecuzione."
+        ]
+      ],
+      "opening": "Un disegno antico dimostra ciò che accadde oppure ciò che qualcuno volle rappresentare?",
+      "steps": [
+        "Presentare il disegno immaginario di una scena di caccia e descrivere solo gli elementi visibili.",
+        "Formulare due interpretazioni possibili, senza trasformarle in fatti.",
+        "Indicare quale ulteriore testimonianza aiuterebbe a scegliere tra le interpretazioni."
+      ],
+      "question": "Perché non possiamo ricavare una formula precisa da qualsiasi simbolo antico?",
+      "answer": "Perché forma grafica, significato e uso non sono equivalenti. Senza un contesto o riscontri aggiuntivi, attribuire una formula sarebbe una congettura.",
+      "source": "Manuale, I anno, origini, preistoria, Mesopotamia ed Egizi; rielaborazione critica."
+    },
+    {
+      "year": 1,
+      "meeting": 4,
+      "week": 2,
+      "title": "Custodire e trasmettere",
+      "subtitle": "Dai saperi antichi alla scuola",
+      "theory": [
+        "Le società antiche non conservarono tutte le conoscenze allo stesso modo. Il manuale propone il confronto tra ambienti mediterranei e tradizioni celtiche: insegnamento, ritualità, memoria e scrittura assumono forme diverse. La diversità dei mezzi di trasmissione non permette di ordinare automaticamente intere comunità dalla più sapiente alla meno sapiente.",
+        "Una tradizione affidata alla memoria richiede continuità tra persone. Un testo può circolare oltre il proprio autore, ma può anche essere copiato male, tradotto o sottratto alla consultazione. La conservazione non coincide quindi con l’accesso: un sapere custodito può rimanere sconosciuto a gran parte della comunità.",
+        "Hogwarts si comprende meglio all’interno di questa lunga storia dell’insegnamento. La scuola riunisce allievi, maestri e materiali in un luogo riconoscibile. Non inventa ogni conoscenza che trasmette e non cancella immediatamente gli apprendimenti familiari. Il primo anno si conclude collegando origini, conservazione e responsabilità di chi insegna."
+      ],
+      "notions": [
+        [
+          "Tradizione orale",
+          "Non è automaticamente falsa: richiede domande sulla catena di trasmissione e sulle trasformazioni subite."
+        ],
+        [
+          "Testo e accesso",
+          "Un sapere può essere scritto ma riservato a pochi. Conservazione e diffusione sono due processi distinti."
+        ],
+        [
+          "Druidi e memoria",
+          "Il riferimento celtico permette di discutere il ruolo di figure specializzate nella custodia del sapere, senza attribuire a tutte le comunità pratiche identiche."
+        ]
+      ],
+      "opening": "È più importante possedere un libro oppure sapere chi può leggerlo e comprenderlo?",
+      "steps": [
+        "Confrontare tre modelli: apprendimento familiare, maestro locale e scuola comune.",
+        "Per ciascuno indicare un vantaggio e una possibile difficoltà nella trasmissione.",
+        "Riprendere i Fondatori e spiegare quale problema istituzionale affronti la nascita di una scuola."
+      ],
+      "question": "Una scuola rende subito identica la preparazione di tutti gli studenti?",
+      "answer": "No. Crea una struttura comune, ma restano differenze di accesso, insegnamento e comprensione. Le successive riforme educative nasceranno anche da questi problemi.",
+      "source": "Programma, lezioni 1–2; Manuale, II anno, civiltà mediterranee e Celti."
+    },
+    {
+      "year": 2,
+      "meeting": 1,
+      "week": 1,
+      "title": "Merlino, tra uomo e memoria",
+      "subtitle": "Il personaggio storico e la tradizione",
+      "theory": [
+        "Merlino occupa un posto centrale nella memoria magica britannica. Il programma lo presenta come personaggio storico sul quale si sono accumulate tradizioni, imprese e interpretazioni. La notorietà rende più ricca la memoria di una figura, ma non rende automaticamente verificabile ogni racconto che la riguarda.",
+        "La tradizione associa Merlino a Hogwarts e a Serpeverde; altre narrazioni lo pongono accanto a sovrani e cavalieri. Il compito dello storico non consiste nel saldare tutti questi racconti in una biografia priva di incertezze. Occorre distinguere la singola testimonianza dalla ricostruzione successiva e dichiarare quale rapporto abbiano tra loro.",
+        "Anche un racconto non verificato può essere studiato. Può rivelare quali qualità una comunità desiderasse celebrare o quale immagine del passato volesse tramandare. Il suo valore come testimonianza della memoria non coincide però con la prova che ogni impresa narrata sia realmente avvenuta."
+      ],
+      "notions": [
+        [
+          "Esistenza e giudizio",
+          "Dire che un personaggio è esistito è diverso dal definirlo il più grande di ogni tempo."
+        ],
+        [
+          "Tradizioni sovrapposte",
+          "Racconti nati in ambienti ed epoche differenti possono modificare lo stesso personaggio."
+        ],
+        [
+          "Biografia prudente",
+          "Una ricostruzione attendibile segnala i limiti delle notizie, invece di riempirli con imprese plausibili."
+        ]
+      ],
+      "opening": "Quale ricordo vi viene in mente ascoltando il nome Merlino, e da chi lo avete appreso?",
+      "steps": [
+        "Raccogliere tre ricordi della classe e indicarne la provenienza.",
+        "Separare un fatto presentato dal programma, una tradizione e un giudizio di grandezza.",
+        "Scrivere due righe su Merlino usando formule che rendano riconoscibile il grado di certezza."
+      ],
+      "question": "La fama rende tutte le imprese attribuite a un personaggio ugualmente attendibili?",
+      "answer": "No. La fama spiega la circolazione dei racconti; ogni impresa richiede una valutazione delle testimonianze che la sostengono.",
+      "source": "Programma, lezione 3; Manuale, IV anno, Merlino e Morgana."
+    },
+    {
+      "year": 2,
+      "meeting": 2,
+      "week": 1,
+      "title": "Eroi e racconti contrapposti",
+      "subtitle": "Morgana e la costruzione di una reputazione",
+      "theory": [
+        "Nel manuale Merlino e Morgana sono raccontati attraverso tradizioni che ne contrappongono spesso i ruoli. Questo contrasto offre un caso di studio: una narrazione può rendere comprensibile uno scontro distribuendo le parti dell’eroe e dell’avversario. La chiarezza del racconto non garantisce però una ricostruzione completa.",
+        "Per valutare una reputazione bisogna chiedersi chi narri, a chi si rivolga e quale qualità desideri esaltare o condannare. Due racconti possono descrivere lo stesso gesto come fedeltà oppure ostinazione. Il cambiamento di giudizio non dimostra, da solo, che uno dei narratori possieda tutte le informazioni.",
+        "Le narrazioni antiche, comprese quelle greche e romane richiamate dal manuale, aiutano a riconoscere questo problema. Lo storico studia il linguaggio dei racconti senza ricavare da ogni episodio una capacità magica accertata. Nomi, simboli e valori possono sopravvivere più a lungo delle prove sugli eventi."
+      ],
+      "notions": [
+        [
+          "Reputazione",
+          "È l’immagine pubblica costruita da giudizi e racconti; non coincide con un elenco completo di fatti."
+        ],
+        [
+          "Contrapposizione narrativa",
+          "Presentare due persone come opposti può semplificare differenze più complesse."
+        ],
+        [
+          "Contesto del narratore",
+          "Un autore scrive per lettori e scopi determinati: anche la scelta di ciò che omette può essere significativa."
+        ]
+      ],
+      "opening": "Lo stesso gesto può apparire coraggioso a un narratore e imprudente a un altro?",
+      "steps": [
+        "Inventare un episodio ordinario con una decisione rischiosa e descriverlo da due punti di vista.",
+        "Sottolineare i fatti comuni alle due versioni e cerchiare gli aggettivi di giudizio.",
+        "Collegare l’esercizio alle figure di Merlino e Morgana, senza aggiungere eventi alla loro biografia."
+      ],
+      "question": "Due giudizi opposti dimostrano necessariamente due avvenimenti diversi?",
+      "answer": "No. Possono essere interpretazioni differenti dello stesso gesto. Prima di scegliere un giudizio bisogna ricostruire le informazioni disponibili.",
+      "source": "Programma, lezione 3; Manuale, II e IV anno; confronto didattico originale."
+    },
+    {
+      "year": 2,
+      "meeting": 3,
+      "week": 2,
+      "title": "Quando nasce una leggenda",
+      "subtitle": "Memoria, omissioni e trasformazioni",
+      "theory": [
+        "Un racconto può cambiare anche quando nessuno intende mentire. Chi ascolta seleziona ciò che considera importante; chi ricorda collega informazioni, tralascia dettagli o attribuisce un’intenzione non dichiarata. La ripetizione attraverso generazioni può stabilizzare una versione già modificata.",
+        "Questo processo non rende inutile la tradizione. La versione tardiva può conservare una parte di un evento e aggiungere elementi che riflettono i bisogni di chi la tramanda. Lo storico deve chiedersi quali parti siano sostenute da riscontri e quali appartengano alla costruzione della memoria.",
+        "Una testimonianza orale non è falsa soltanto perché non è scritta; una cronaca non è vera soltanto perché usa un tono autorevole. Provenienza, distanza dagli eventi, possibilità di verifica e dipendenza da altri racconti permettono una valutazione più precisa del semplice confronto tra voce e pergamena."
+      ],
+      "notions": [
+        [
+          "Errore e falsificazione",
+          "Un’informazione inesatta può derivare da memoria imperfetta oppure da alterazione volontaria: non sono la stessa cosa."
+        ],
+        [
+          "Distanza temporale",
+          "Una fonte vicina può conoscere dettagli, ma essere coinvolta; una lontana può confrontare materiali, ma dipendere da copie."
+        ],
+        [
+          "Trasmissione",
+          "Più passaggi richiedono attenzione alla provenienza, non una condanna automatica del racconto."
+        ]
+      ],
+      "opening": "Se venti persone assistono a un fatto, il giorno dopo ne avremo una sola descrizione?",
+      "steps": [
+        "Comunicare una breve storia immaginaria a uno studente, che la trasmetta una volta al successivo.",
+        "Confrontare l’ultima versione con quella iniziale, anche se non presenta differenze.",
+        "Distinguere cambiamenti osservati, possibili cause e intenzioni che non possiamo dimostrare."
+      ],
+      "question": "Se un dettaglio cambia, possiamo concludere subito che qualcuno abbia mentito?",
+      "answer": "No. Occorre distinguere omissione, memoria, incomprensione e alterazione deliberata. Il cambiamento non ne dimostra da solo la causa.",
+      "source": "Programma, lezione 4."
+    },
+    {
+      "year": 2,
+      "meeting": 4,
+      "week": 2,
+      "title": "Monumenti e tradizioni",
+      "subtitle": "Che cosa dimostra un ricordo pubblico?",
+      "theory": [
+        "Un monumento può ricordare un’impresa senza provarne ogni dettaglio. La sua presenza documenta almeno una scelta: qualcuno volle dedicare spazio, risorse e parole a una determinata memoria. Questa scelta appartiene alla storia anche quando la vicenda celebrata rimane incerta.",
+        "La stessa distinzione vale per nomi, commemorazioni e tradizioni familiari. Il ricordo pubblico seleziona: può mettere al centro un protagonista, dimenticare chi lo aiutò o trasformare un episodio ambiguo in un esempio morale. Studiare ciò che viene ricordato richiede anche di interrogare ciò che viene escluso.",
+        "Il secondo anno si conclude senza scegliere tra credere a tutto e respingere tutte le leggende. Il lavoro consiste nel formulare affermazioni commisurate alle prove. Si può ricostruire la storia di una celebrazione anche quando non si possiede la certezza dell’evento celebrato."
+      ],
+      "notions": [
+        [
+          "Evento e commemorazione",
+          "Il fatto ricordato e l’atto successivo di ricordarlo sono oggetti di ricerca distinti."
+        ],
+        [
+          "Memoria selettiva",
+          "Ogni racconto dedica più spazio ad alcuni protagonisti e meno ad altri."
+        ],
+        [
+          "Formula prudente",
+          "Dire che una tradizione attribuisce un’impresa rende riconoscibile la natura della notizia."
+        ]
+      ],
+      "opening": "Una statua dedicata a un salvataggio dimostra il salvataggio oppure l’esistenza di una celebrazione?",
+      "steps": [
+        "Presentare un’iscrizione immaginaria dedicata a uno studente leggendario.",
+        "Scrivere una frase certa sulla commemorazione e una domanda ancora aperta sull’impresa.",
+        "Riprendere Merlino e spiegare perché il valore di una leggenda non richieda di accettarla alla lettera."
+      ],
+      "question": "Una leggenda può essere utile allo storico anche se l’episodio non è dimostrato?",
+      "answer": "Sì. Può documentare valori, aspettative e scelte della comunità che la conserva. Questo non prova automaticamente l’episodio narrato.",
+      "source": "Programma, lezioni 3–4; sintesi didattica."
+    },
+    {
+      "year": 3,
+      "meeting": 1,
+      "week": 1,
+      "title": "Maghi e Babbani",
+      "subtitle": "La convivenza prima della Segretezza",
+      "theory": [
+        "Prima dell’adozione della Segretezza, i rapporti tra popolazioni magiche e non magiche non seguirono ovunque un solo modello. Prossimità, scambi, dipendenza reciproca e diffidenza potevano trovarsi nello stesso territorio. Una distinzione netta nel 1890 non deve essere proiettata automaticamente su ogni epoca precedente.",
+        "Una comunità poteva conoscere una famiglia di maghi senza comprenderne le capacità. Un aiuto poteva essere apprezzato in una circostanza e temuto in un’altra. La storia dei rapporti richiede quindi attenzione alle situazioni concrete, invece di immaginare secoli di armonia uniforme oppure un’ostilità senza interruzioni.",
+        "Lo storico confronta testimonianze di ambienti diversi e ne riconosce il punto di vista. Un documento favorevole non cancella le persecuzioni; un episodio ostile non descrive ogni relazione quotidiana. Capire questa varietà è necessario per studiare le trasformazioni che portarono alla separazione istituzionale."
+      ],
+      "notions": [
+        [
+          "Popolazioni e individui",
+          "Un racconto su una persona non autorizza a descrivere allo stesso modo un’intera popolazione."
+        ],
+        [
+          "Convivenza",
+          "Indica rapporti e spazi condivisi; non implica assenza di differenze o tensioni."
+        ],
+        [
+          "Proiezione del presente",
+          "Attribuire al passato le stesse separazioni del 1890 può rendere invisibili forme di relazione differenti."
+        ]
+      ],
+      "opening": "Vivere nello stesso villaggio significa necessariamente fidarsi gli uni degli altri?",
+      "steps": [
+        "Costruire un caso immaginario di collaborazione tra vicini magici e non magici.",
+        "Aggiungere una fonte di tensione senza cancellare la collaborazione iniziale.",
+        "Indicare quali notizie servirebbero per comprendere come la relazione cambi nel tempo."
+      ],
+      "question": "Un episodio di conflitto dimostra che ogni rapporto fosse ostile?",
+      "answer": "No. Documenta quel conflitto. Per descrivere un’intera epoca servono confronti tra luoghi, gruppi e testimonianze.",
+      "source": "Programma, lezione 5; Manuale, I e III anno, rapporti e Medioevo."
+    },
+    {
+      "year": 3,
+      "meeting": 2,
+      "week": 1,
+      "title": "Accuse e persecuzioni",
+      "subtitle": "La testimonianza non coincide con il verdetto",
+      "theory": [
+        "Diffidenza e paura possono trasformare una difficoltà comune in un’accusa. Nei materiali sulle persecuzioni e sui processi, lo storico deve distinguere il fatto di essere accusati dalla dimostrazione di aver compiuto l’azione contestata. Una confessione o un verbale richiedono attenzione alle condizioni in cui furono prodotti.",
+        "Il manuale richiama la caccia alle streghe e i processi di Salem. Il loro studio non deve confondere le credenze degli accusatori con una prova della natura magica degli imputati. Un testo persecutorio è importante per capire come veniva costruita l’accusa, non perché renda vere tutte le sue affermazioni.",
+        "Le fonti possono anche raccontare la stessa vicenda da posizioni incompatibili. Occorre cercare ciò che entrambe sostengono, ciò su cui divergono e i dettagli che ciascuna può effettivamente conoscere. Comprendere una paura collettiva non significa condividere il giudizio che ne derivò."
+      ],
+      "notions": [
+        [
+          "Accusa",
+          "È un’affermazione da verificare; la sua ripetizione non la trasforma da sola in prova."
+        ],
+        [
+          "Condizioni della testimonianza",
+          "Pressioni, interessi e distanza dai fatti possono influire su ciò che una persona dichiara."
+        ],
+        [
+          "Salem",
+          "Il caso richiamato dal manuale viene studiato come persecuzione e problema di valutazione delle fonti, evitando una causa unica per tutta la Segretezza."
+        ]
+      ],
+      "opening": "Se un verbale contiene un’accusa, che cosa sappiamo con certezza prima di valutarne il contenuto?",
+      "steps": [
+        "Leggere due versioni immaginarie di un raccolto fallito, una accusatoria e una prudente.",
+        "Elencare le osservazioni comuni e separarle dalle spiegazioni proposte.",
+        "Formulare una domanda di verifica che non presupponga già la colpevolezza."
+      ],
+      "question": "Il fatto che un’accusa sia conservata in un archivio ne prova la verità?",
+      "answer": "No. Prova che è stata registrata. Contenuto, provenienza e condizioni di produzione devono essere esaminati.",
+      "source": "Programma, lezione 5; Manuale, III–IV anno, processi e Salem."
+    },
+    {
+      "year": 3,
+      "meeting": 3,
+      "week": 2,
+      "title": "Lo Statuto del 1692",
+      "subtitle": "Una responsabilità comune",
+      "theory": [
+        "Nel 1692 lo Statuto Internazionale di Segretezza della Magia stabilì un riferimento comune per nascondere l’esistenza della comunità magica al mondo non magico. Il programma lo presenta come una risposta collettiva a problemi che le singole comunità non potevano affrontare stabilmente in modo indipendente.",
+        "La Segretezza trasformò una precauzione in un obbligo condiviso. Un’esposizione locale poteva avere conseguenze oltre il luogo dell’incidente; per questo prevenzione, intervento e responsabilità dovevano essere coordinati. La scelta offriva protezione, ma comportava anche limitazioni dei contatti e della vita quotidiana.",
+        "Il 1692 non creò immediatamente tutte le istituzioni moderne. Una norma richiede interpretazione, mezzi e persone incaricate di applicarla. Distinguere l’adozione dello Statuto dal successivo sviluppo amministrativo permette di comprendere sia il significato della decisione sia le difficoltà della sua attuazione."
+      ],
+      "notions": [
+        [
+          "Norma internazionale",
+          "Un riferimento comune collega comunità diverse; non rende identica ogni modalità di applicazione."
+        ],
+        [
+          "Protezione e costo",
+          "La sicurezza deve essere studiata insieme alle restrizioni e ai nuovi problemi che produce."
+        ],
+        [
+          "Date distinte",
+          "Nel programma adottato il 1692 riguarda lo Statuto, mentre il 1708 riguarda la fondazione formale del Ministero britannico."
+        ]
+      ],
+      "opening": "Una decisione può aumentare la protezione e limitare contemporaneamente alcune libertà?",
+      "steps": [
+        "Simulare un consiglio incaricato di discutere la Segretezza nel 1692.",
+        "Assegnare a gruppi diversi protezione, relazioni quotidiane e applicazione della norma.",
+        "Raccogliere una ragione a favore e una difficoltà concreta per ciascun gruppo."
+      ],
+      "question": "Perché approvare lo Statuto non equivale a creare subito il Ministero?",
+      "answer": "Perché norma e organizzazione del governo sono processi distinti. Servono strutture, competenze e procedure per applicare una responsabilità comune.",
+      "source": "Programma, lezione 6; Manuale, V anno, Statuto."
+    },
+    {
+      "year": 3,
+      "meeting": 4,
+      "week": 2,
+      "title": "Vivere dopo lo Statuto",
+      "subtitle": "La legge nelle scelte quotidiane",
+      "theory": [
+        "L’effetto di una grande decisione si comprende anche nelle abitudini. Abitare vicino a persone non magiche, lavorare, viaggiare e custodire oggetti richiedono scelte diverse quando l’esposizione della magia diventa responsabilità verso l’intera comunità.",
+        "I cambiamenti non furono necessariamente percepiti allo stesso modo da tutti. Una famiglia già isolata poteva incontrare problemi differenti da chi intratteneva rapporti quotidiani con vicini non magici. Una regola comune produce conseguenze concrete attraverso la situazione di ciascuno.",
+        "Valutare la Segretezza richiede di distinguere obiettivo, mezzi e risultati. Proteggere l’esistenza del mondo magico non significa aver eliminato ogni conflitto interno o garantito l’uguaglianza. Il terzo anno si conclude seguendo il passaggio dalla decisione collettiva all’esperienza individuale."
+      ],
+      "notions": [
+        [
+          "Applicazione",
+          "È il modo in cui una norma viene tradotta in comportamenti e interventi."
+        ],
+        [
+          "Esperienze differenti",
+          "La stessa legge può pesare diversamente su comunità isolate, famiglie e lavoratori."
+        ],
+        [
+          "Risultati parziali",
+          "Un obiettivo raggiunto non dimostra che ogni conseguenza del provvedimento sia positiva."
+        ]
+      ],
+      "opening": "Quale abitudine cambierebbe per prima in una famiglia abituata a collaborare con vicini non magici?",
+      "steps": [
+        "Confrontare due famiglie immaginarie, una isolata e una inserita in un villaggio misto.",
+        "Per ciascuna indicare un cambiamento e un problema di applicazione.",
+        "Scrivere un breve bilancio dello Statuto distinguendo protezione, restrizioni e questioni irrisolte."
+      ],
+      "question": "Una regola uguale per tutti produce necessariamente esperienze identiche?",
+      "answer": "No. Le condizioni di partenza cambiano il modo in cui le persone ne incontrano benefici, obblighi e difficoltà.",
+      "source": "Programma, lezione 6; applicazione didattica."
+    },
+    {
+      "year": 4,
+      "meeting": 1,
+      "week": 1,
+      "title": "Dal Segreto al Ministero",
+      "subtitle": "1692–1708: coordinare una comunità",
+      "theory": [
+        "Dopo lo Statuto fu necessario coordinare interventi su territori differenti. Nel programma la Commissione Britannica della Segretezza rappresenta uno degli strumenti di questa riorganizzazione. Raccogliere notizie, prevenire incidenti e affrontare le violazioni erano funzioni collegate, ma non identiche.",
+        "Il primo censimento amministrativo rispondeva al bisogno di conoscere comunità e popolazione. Le informazioni potevano sostenere servizi e comunicazioni; la loro concentrazione poteva anche essere percepita come controllo. Lo storico non presume che tutti gli abitanti interpretassero allo stesso modo il cambiamento.",
+        "Il Concordato di Westminster Magico del 1708 segnò, nella cronologia del programma, la nascita formale del Ministero della Magia britannico. Tra Statuto e fondazione trascorsero sedici anni. Il Ministero non inaugurò ogni regola della comunità: organizzò in una nuova forma un processo già avviato."
+      ],
+      "notions": [
+        [
+          "Informazione, prevenzione, sanzione",
+          "Conoscere un problema, impedirlo e intervenire dopo una violazione richiedono strumenti differenti."
+        ],
+        [
+          "Censimento",
+          "Una raccolta di informazioni può aiutare l’organizzazione e sollevare domande sui limiti del controllo."
+        ],
+        [
+          "Istituzione",
+          "Una funzione riconoscibile, sostenuta da regole e competenze, si distingue dal prestigio personale di un singolo mago."
+        ]
+      ],
+      "opening": "Una legge senza uffici, informazioni e responsabilità definite può funzionare nello stesso modo ovunque?",
+      "steps": [
+        "Disegnare una linea del tempo con 1692 e 1708.",
+        "Collocare nello spazio intermedio i problemi di coordinamento, senza attribuire date non fornite al censimento.",
+        "Progettare un ufficio con un compito preciso e un limite al suo potere."
+      ],
+      "question": "Perché il Ministero del 1708 non deve essere immaginato identico a quello del 1890?",
+      "answer": "Perché istituzioni, uffici e diritti continuano a trasformarsi. La fondazione non contiene automaticamente tutti gli sviluppi successivi.",
+      "source": "Programma, lezione 7; cronologia del programma prevalente sul Manuale."
+    },
+    {
+      "year": 4,
+      "meeting": 2,
+      "week": 1,
+      "title": "La Crisi di Norwich",
+      "subtitle": "Autorità centrale e autonomia locale",
+      "theory": [
+        "Nel programma la Crisi di Norwich mette in luce il conflitto tra una comunità e l’autorità dell’Ufficio Generale nella gestione di incidenti legati alla Segretezza. Dopo mesi di tensione fu raggiunto un compromesso. Non occorre aggiungere protagonisti, vittime o date che il materiale non fornisce per comprenderne il problema istituzionale.",
+        "Un incidente può richiedere rapidità locale e coordinamento più ampio. La difficoltà nasce quando le parti non riconoscono gli stessi confini di competenza. La buona volontà non sostituisce una risposta alla domanda su chi abbia titolo per decidere e a chi debba rendere conto.",
+        "Una crisi precedente a una riforma non ne dimostra da sola la causa. Lo storico deve cercare un collegamento documentato tra difficoltà, discussioni e cambiamenti. Norwich permette di distinguere difetti delle norme, mancanza di mezzi e problemi nell’applicazione, senza dichiararli equivalenti."
+      ],
+      "notions": [
+        [
+          "Competenza",
+          "È l’ambito nel quale un’autorità è incaricata di intervenire."
+        ],
+        [
+          "Compromesso",
+          "Può comporre una controversia senza cancellare ogni differenza tra le parti."
+        ],
+        [
+          "Causa e successione",
+          "Sapere che un evento viene prima di un altro non basta a dimostrare che lo abbia prodotto."
+        ]
+      ],
+      "opening": "Se una comunità risolve rapidamente un incidente, può ignorarne ogni conseguenza per i territori vicini?",
+      "steps": [
+        "Assegnare due ruoli in un caso immaginario: comunità locale e ufficio di coordinamento.",
+        "Far proporre un compito per ciascuno e una procedura per i disaccordi.",
+        "Confrontare la soluzione con il problema di Norwich, distinguendo l’esercizio dai fatti disponibili."
+      ],
+      "question": "Un’amministrazione in difficoltà dimostra necessariamente che ogni sua norma fosse sbagliata?",
+      "answer": "No. Il problema può riguardare norme, strumenti, competenze o applicazione. Occorre individuare quali elementi sostengano ciascuna spiegazione.",
+      "source": "Programma, lezione 7."
+    },
+    {
+      "year": 4,
+      "meeting": 3,
+      "week": 2,
+      "title": "Giustizia e registri",
+      "subtitle": "Accusare, verificare, giudicare",
+      "theory": [
+        "La costruzione di istituzioni comuni riguarda anche il giudizio sulle controversie. Nel programma l’Ufficio di Giustizia Magica richiama la gestione amministrativa e operativa delle procedure, mentre l’Alta Corte della Comunità permette di affrontare il problema della valutazione delle accuse.",
+        "Chi formula un’accusa, chi raccoglie gli elementi e chi giudica svolgono funzioni diverse. La provenienza autorevole di un’affermazione non sostituisce l’esame delle prove. La presenza di un tribunale non garantisce l’assenza di errori, ma una procedura riconoscibile rende possibile chiedere come si sia arrivati a una decisione.",
+        "I registri conservano tracce di ordini, motivazioni e responsabilità. Possono permettere di ricostruire una scelta anche dopo la scomparsa dei suoi autori. Tuttavia, la registrazione non rende giusto ogni provvedimento: anche il documento amministrativo può contenere errori e omissioni."
+      ],
+      "notions": [
+        [
+          "Accusa e prova",
+          "Una contestazione apre una domanda; non contiene già la dimostrazione della colpa."
+        ],
+        [
+          "Memoria amministrativa",
+          "Registrare consente di ricostruire chi abbia deciso, quando e sulla base di quali ragioni."
+        ],
+        [
+          "Autenticità e correttezza",
+          "Un documento realmente prodotto da un ufficio può contenere una decisione sbagliata."
+        ]
+      ],
+      "opening": "Accettereste un provvedimento spiegato soltanto con le parole “è stato deciso così”?",
+      "steps": [
+        "Compilare un provvedimento immaginario con autore, data, motivazione e ambito di applicazione.",
+        "Far individuare alla classe quale informazione manchi in una versione abbreviata.",
+        "Distinguere ciò che il documento prova da ciò che resta da verificare sul caso."
+      ],
+      "question": "Un ordine autentico è necessariamente anche corretto?",
+      "answer": "No. L’autenticità riguarda la provenienza; la correttezza richiede di valutare ragioni, competenze e circostanze.",
+      "source": "Programma, lezione 8."
+    },
+    {
+      "year": 4,
+      "meeting": 4,
+      "week": 2,
+      "title": "La libertà della bacchetta",
+      "subtitle": "La Carta del 1752 e i limiti del potere",
+      "theory": [
+        "La Carta della Libertà della Bacchetta del 1752, richiamata dal programma, consente di studiare il rapporto tra autonomia e sicurezza. La bacchetta è uno strumento con cui il mago apprende, lavora e può difendersi. La sua sottrazione può quindi incidere su molti aspetti della vita.",
+        "Lo stesso strumento può essere usato per danneggiare altri. Il problema storico non si risolve dichiarando assoluta la libertà oppure sufficiente ogni richiamo alla sicurezza. Bisogna comprendere chi possa limitare un diritto, per quali ragioni e con quali possibilità di controllo.",
+        "Il quarto anno si conclude collegando istituzioni e limiti. Una comunità deve poter affrontare i pericoli senza rendere ogni decisione arbitraria. Il registro di un provvedimento e la distinzione delle funzioni giudiziarie aiutano a porre domande precise sul potere, senza inventare articoli della Carta non riportati dal programma."
+      ],
+      "notions": [
+        [
+          "Autonomia",
+          "Comprende la possibilità concreta di esercitare capacità e svolgere attività."
+        ],
+        [
+          "Motivazione",
+          "Una limitazione richiede ragioni riconoscibili; la formula generica della sicurezza non spiega ogni decisione."
+        ],
+        [
+          "Controllo del potere",
+          "Chiedere chi decida e come si possa contestare una scelta è diverso dal negare ogni autorità."
+        ]
+      ],
+      "opening": "Quali parti della vostra vita cambierebbero se non poteste più usare la bacchetta per un tempo indefinito?",
+      "steps": [
+        "Presentare un villaggio immaginario nel quale un incidente susciti una richiesta di limitazioni generali.",
+        "Far proporre una risposta motivata e un criterio per riesaminarla.",
+        "Collegare libertà, giustizia e registri, distinguendo la discussione dal testo storico della Carta."
+      ],
+      "question": "La sicurezza rende automaticamente giustificata qualsiasi limitazione?",
+      "answer": "No. Devono essere esaminate ragioni, competenze, estensione e controllo della decisione. Il richiamo a un obiettivo non dimostra l’adeguatezza di ogni mezzo.",
+      "source": "Programma, lezione 8."
+    },
+    {
+      "year": 5,
+      "meeting": 1,
+      "week": 1,
+      "title": "La Riforma Hawthorne",
+      "subtitle": "1778: rendere condivise le basi",
+      "theory": [
+        "La fondazione di una scuola non eliminò subito le differenze nella formazione iniziale. Famiglie, precettori e comunità continuarono a offrire opportunità diseguali. Il possesso di libri e la disponibilità di un maestro potevano cambiare ciò che un giovane aveva studiato prima di arrivare a Hogwarts.",
+        "La Petizione dei Precettori si inserisce nel percorso che portò a discutere questa frammentazione. Anche insegnanti preparati potevano seguire criteri molto diversi. Una base comune cercava di rendere riconoscibili gli obiettivi, senza confondere le opportunità ricevute con l’intelligenza dell’allievo.",
+        "Nel 1778 la Riforma Hawthorne organizzò il percorso educativo intorno alla Preparazione Standard e all’ingresso a Hogwarts a sedici anni. Il sistema ha quindi una storia: non deriva da un’età imposta dalla natura della magia. La riforma affronta un problema preciso, senza garantire che ogni disuguaglianza scompaia."
+      ],
+      "notions": [
+        [
+          "Opportunità e capacità",
+          "Una preparazione più ampia può dipendere dalle risorse disponibili, non da una superiorità personale."
+        ],
+        [
+          "Petizione",
+          "È una richiesta collettiva che permette di discutere problemi e proposte; non equivale già alla riforma approvata."
+        ],
+        [
+          "Base comune",
+          "Stabilisce riferimenti per l’insegnamento, senza rendere uguale la comprensione di ogni studente."
+        ]
+      ],
+      "opening": "Perché avete iniziato Hogwarts a sedici anni, e non a un’altra età?",
+      "steps": [
+        "Confrontare due percorsi immaginari con risorse familiari diverse.",
+        "Indicare un problema che la preparazione comune può affrontare e uno che può restare aperto.",
+        "Collocare Petizione e Riforma come momenti diversi, senza inventare una data per la prima."
+      ],
+      "question": "Una riforma che stabilisce basi comuni elimina da sola ogni disuguaglianza?",
+      "answer": "No. Riduce una frammentazione del programma, ma risorse, insegnanti e condizioni personali possono continuare a differire.",
+      "source": "Programma, lezione 9."
+    },
+    {
+      "year": 5,
+      "meeting": 2,
+      "week": 1,
+      "title": "La Preparazione Standard",
+      "subtitle": "Dagli undici ai quindici anni, prima della pratica scolastica",
+      "theory": [
+        "Nel percorso scolastico adottato, la Preparazione Standard riguarda gli anni dagli undici ai quindici e ha carattere teorico. Si svolge senza bacchetta e senza pratica magica volontaria. L’ingresso a sedici anni apre il successivo apprendimento scolastico guidato.",
+        "Conoscere un nome, comprendere un principio ed eseguire una formula non sono capacità equivalenti. La formazione iniziale costruisce lessico, contesto e comprensione; non dimostra che l’allievo abbia già sperimentato volontariamente gli incantesimi. Una manifestazione involontaria non costituisce un programma di esercitazione.",
+        "La storia della riforma aiuta a leggere il presente. Gli allievi possono aver ricevuto spiegazioni differenti pur seguendo gli stessi riferimenti teorici. Il docente deve riconoscere ciò che è stato compreso e ciò che richiede chiarimento, senza attribuire pratica precedente dove il percorso non la prevede."
+      ],
+      "notions": [
+        [
+          "Sapere e saper eseguire",
+          "La conoscenza teorica non equivale a una padronanza pratica dimostrata."
+        ],
+        [
+          "Confine del percorso",
+          "Undici–quindici anni: preparazione teorica; sedici anni: ingresso a Hogwarts secondo l’ordinamento adottato."
+        ],
+        [
+          "Involontarietà",
+          "Un fenomeno spontaneo non dimostra studio pratico né autorizza a descrivere esercitazioni volontarie prima dell’ingresso."
+        ]
+      ],
+      "opening": "Si può conoscere il significato di una formula senza averla mai eseguita?",
+      "steps": [
+        "Elencare attività compatibili con una preparazione teorica: lettura, descrizione e confronto.",
+        "Separarle da un tentativo volontario di esecuzione.",
+        "Collegare questa distinzione agli obiettivi di una base comune e del successivo insegnamento guidato."
+      ],
+      "question": "Conoscere il nome di un incantesimo prova che lo si sia già praticato?",
+      "answer": "No. Nome, principio ed esecuzione sono livelli diversi. La Preparazione Standard qui descritta resta teorica.",
+      "source": "Programma, lezione 9; ordinamento scolastico Hawthorne adottato per il corso."
+    },
+    {
+      "year": 5,
+      "meeting": 3,
+      "week": 2,
+      "title": "La rappresentanza del 1819",
+      "subtitle": "Governare e ricevere un mandato",
+      "theory": [
+        "Il Decreto di Rappresentanza del 1819, nel programma, costituisce un passaggio nello sviluppo della partecipazione politica britannica. Il suo studio collega diritto di voto, elezione del Ministro e ruolo dei cittadini, distinguendoli dalla semplice esistenza di un’autorità centrale.",
+        "Un governante può prendere decisioni competenti senza essere stato scelto da tutte le persone che ne subiscono le conseguenze. La rappresentanza riguarda anche il modo in cui il potere viene formato. Il fatto che si svolga un’elezione non risponde da solo a tutte le domande su accesso, libertà della scelta e condizioni del voto.",
+        "Lo storico deve conoscere le regole effettive, senza inventare requisiti non forniti dai documenti. Il cittadino, a sua volta, ha bisogno di confrontare proposte e risultati. La popolarità di un nome e il prestigio familiare non sostituiscono l’esame del programma di governo."
+      ],
+      "notions": [
+        [
+          "Autorità e rappresentanza",
+          "Esercitare un potere riconosciuto non dice ancora chi partecipi alla scelta di chi lo detiene."
+        ],
+        [
+          "Mandato",
+          "La scelta di un governante non rende infallibili tutte le sue decisioni."
+        ],
+        [
+          "Partecipazione",
+          "Informarsi e chiedere conto dell’azione pubblica sono questioni distinte dal solo atto del voto."
+        ]
+      ],
+      "opening": "Essere un buon amministratore basta a risolvere il problema di chi abbia diritto di scegliere il governo?",
+      "steps": [
+        "Proporre tre candidati immaginari con priorità differenti, senza usare cariche contemporanee reali.",
+        "Far motivare la preferenza sulla base delle proposte.",
+        "Chiedere quali informazioni manchino prima di giudicare il sistema elettorale nel suo insieme."
+      ],
+      "question": "L’esistenza del voto dimostra da sola che ogni cittadino possa partecipare nelle stesse condizioni?",
+      "answer": "No. Servono informazioni sui requisiti, sulle procedure e sulla libertà della scelta. Non si deducono regole mancanti dal solo nome di una riforma.",
+      "source": "Programma, lezione 10."
+    },
+    {
+      "year": 5,
+      "meeting": 4,
+      "week": 2,
+      "title": "Rendere conto del governo",
+      "subtitle": "Lucien Barrow e le dimissioni del 1824",
+      "theory": [
+        "Nel 1824 Lucien Barrow lasciò la carica di Ministro della Magia mediante dimissioni. Il programma utilizza questo precedente per studiare la responsabilità di chi governa. Il fatto delle dimissioni non autorizza ad attribuire reati, motivazioni private o cause non documentate.",
+        "La responsabilità giuridica riguarda il rispetto delle norme e le conseguenze delle loro violazioni. Quella politica riguarda decisioni, mandato e fiducia. Un provvedimento può essere criticato senza che sia un reato; un governante eletto può essere chiamato a spiegare le proprie scelte senza che ciò neghi il valore dell’elezione.",
+        "Il quinto anno collega dunque istruzione e cittadinanza. Una comunità ha bisogno di basi per comprendere ciò che viene deciso in suo nome. Il controllo pubblico non si esaurisce nel momento in cui una carica viene assegnata: prosegue attraverso informazioni, confronto e giudizio sui risultati."
+      ],
+      "notions": [
+        [
+          "Dimissioni",
+          "Indicano la rinuncia alla carica; non costituiscono automaticamente una confessione di illecito."
+        ],
+        [
+          "Responsabilità politica",
+          "Riguarda anche fiducia e adeguatezza delle scelte, oltre alla conformità formale alle norme."
+        ],
+        [
+          "Giudizio informato",
+          "Valutare un risultato richiede distinguere obiettivo promesso, decisioni prese e condizioni incontrate."
+        ]
+      ],
+      "opening": "Un governante può rispondere a ogni critica ricordando soltanto di essere stato eletto?",
+      "steps": [
+        "Scrivere una notizia prudente sulle dimissioni del 1824 usando solo i dati del programma.",
+        "Confrontarla con una versione che aggiunga una colpa non dimostrata.",
+        "Riprendere il 1819 e spiegare perché scelta del governante e controllo del suo operato siano questioni collegate."
+      ],
+      "question": "Le dimissioni dimostrano necessariamente la commissione di un reato?",
+      "answer": "No. La rinuncia alla carica e la colpevolezza giuridica sono affermazioni differenti, che richiedono prove differenti.",
+      "source": "Programma, lezione 10."
+    },
+    {
+      "year": 6,
+      "meeting": 1,
+      "week": 1,
+      "title": "Il XIX secolo",
+      "subtitle": "Il cambiamento nella vita quotidiana",
+      "theory": [
+        "La società magica del 1890 non è immobile. Il programma richiama trasformazioni nei trasporti, nelle imprese e negli strumenti di lavoro. Una tradizione antica può convivere con un’organizzazione nuova: la durata di una conoscenza non implica che restino identici i modi di produrla, insegnarla e usarla.",
+        "Il progresso va osservato attraverso attività concrete. Un collegamento più rapido cambia tempi e distanze; una distribuzione più ampia modifica chi può procurarsi un oggetto. Per comprendere il cambiamento bisogna chiedersi chi ne benefici, chi ne sostenga il costo e quali abitudini siano messe in discussione.",
+        "La presenza di un’invenzione non prova che tutti possano accedervi. Differenze di reddito, territorio e mestiere possono produrre esperienze diverse dello stesso secolo. Lo storico studia questi rapporti senza ridurre l’epoca a un elenco di grandi nomi e nuove meraviglie."
+      ],
+      "notions": [
+        [
+          "Innovazione",
+          "È una novità relativa a un contesto; la sua introduzione non coincide con una diffusione universale."
+        ],
+        [
+          "Continuità e cambiamento",
+          "Una società può conservare tradizioni e modificare profondamente le proprie condizioni materiali."
+        ],
+        [
+          "Accesso",
+          "Disponibilità di un prodotto e possibilità concreta di procurarselo sono aspetti differenti."
+        ]
+      ],
+      "opening": "Quale oggetto quotidiano vi sembra tanto normale da farvi dimenticare che qualcuno ha dovuto introdurlo?",
+      "steps": [
+        "Scegliere uno strumento ordinario senza attribuirgli una data d’invenzione non documentata.",
+        "Confrontare un uso familiare, professionale e scolastico.",
+        "Indicare un gruppo che potrebbe beneficiarne e una difficoltà di accesso."
+      ],
+      "question": "Un oggetto nuovo cambia subito allo stesso modo la vita di tutti?",
+      "answer": "No. Diffusione, costo e condizioni d’uso determinano conseguenze differenti.",
+      "source": "Programma, lezione 11."
+    },
+    {
+      "year": 6,
+      "meeting": 2,
+      "week": 1,
+      "title": "Botteghe, imprese e lavoro",
+      "subtitle": "Produrre di più, dipendere da altri",
+      "theory": [
+        "L’organizzazione della produzione modifica il rapporto tra chi costruisce, vende e utilizza gli strumenti. Una bottega può conoscere direttamente i propri clienti; un’impresa più ampia può raggiungere luoghi lontani, ma deve coordinare materiali, informazioni e controllo dei prodotti.",
+        "La diffusione accresce opportunità e responsabilità. Se molti strumenti condividono lo stesso difetto, un problema non resta confinato a un solo banco di lavoro. La reputazione del produttore può orientare la fiducia, ma non sostituisce la verifica di ciò che viene distribuito.",
+        "Per leggere la storia economica occorre ascoltare soggetti differenti: artigiani, lavoratori, compratori e autorità. Una procedura considerata utile da un gruppo può essere percepita come un costo da un altro. Capire questa differenza non significa attribuire automaticamente ragione a tutte le parti."
+      ],
+      "notions": [
+        [
+          "Scala della produzione",
+          "Aumentare la distribuzione può estendere sia i benefici sia le conseguenze di un difetto."
+        ],
+        [
+          "Reputazione e riscontro",
+          "La fiducia accumulata non rende impossibile un errore presente."
+        ],
+        [
+          "Interessi differenti",
+          "Posizioni contrarie vanno confrontate con prove e condizioni materiali, non solo con la forza del linguaggio."
+        ]
+      ],
+      "opening": "Preferireste un oggetto fatto da un artigiano conosciuto o uno prodotto in molti esemplari? Quali informazioni vi servono?",
+      "steps": [
+        "Confrontare due produttori immaginari, evitando di stabilire in anticipo quale sia migliore.",
+        "Chiedere a ciascun gruppo quali dati vorrebbe su materiali, controlli e manutenzione.",
+        "Collegare il confronto alla distribuzione dei rischi, senza trasformare l’esempio in un episodio storico."
+      ],
+      "question": "Una produzione più ampia garantisce automaticamente maggiore affidabilità?",
+      "answer": "No. Quantità, organizzazione e controllo sono variabili distinte. L’affidabilità richiede riscontri.",
+      "source": "Programma, lezione 11."
+    },
+    {
+      "year": 6,
+      "meeting": 3,
+      "week": 2,
+      "title": "La ricerca responsabile",
+      "subtitle": "La Carta del 1863",
+      "theory": [
+        "La Carta della Ricerca Responsabile del 1863, nel programma, introduce il problema dei limiti della sperimentazione. Una ricerca può perseguire un obiettivo utile e impiegare mezzi inadeguati. La valutazione dello scopo deve quindi essere accompagnata dall’esame delle condizioni di lavoro e delle conseguenze prevedibili.",
+        "La reputazione di uno studioso non sostituisce la documentazione. Per valutare una proposta occorre conoscere quali prove siano state svolte, in quali condizioni e con quali risultati, compresi quelli sfavorevoli. Una conclusione non diventa più solida eliminando dal resoconto ciò che non vi si adatta.",
+        "Ricercatori e autorità possiedono competenze differenti e possono avere interessi diversi. Il problema non consiste nel scegliere in astratto tra libertà assoluta e divieto generale. Consiste nel comprendere come una comunità costruisca verifiche, responsabilità e limiti riconoscibili."
+      ],
+      "notions": [
+        [
+          "Scopo e mezzi",
+          "La desiderabilità del risultato non dimostra l’adeguatezza di qualsiasi procedura."
+        ],
+        [
+          "Verificabilità",
+          "Rendere note condizioni e risultati permette un esame che non dipenda soltanto dalla fiducia personale."
+        ],
+        [
+          "Esiti sfavorevoli",
+          "Sono informazioni rilevanti per ricostruire il lavoro e valutarne i limiti."
+        ]
+      ],
+      "opening": "La garanzia di uno studioso celebre sarebbe sufficiente senza alcun resoconto delle prove?",
+      "steps": [
+        "Presentare un progetto immaginario con un obiettivo utile ma informazioni incomplete.",
+        "Far elencare le domande necessarie prima di valutarlo.",
+        "Separare il giudizio sulla promessa del progetto da quello sulle verifiche disponibili."
+      ],
+      "question": "Un’intenzione positiva dimostra che ogni mezzo impiegato sia giustificato?",
+      "answer": "No. Obiettivo, metodo, rischi e responsabilità devono essere valutati distintamente.",
+      "source": "Programma, lezione 12."
+    },
+    {
+      "year": 6,
+      "meeting": 4,
+      "week": 2,
+      "title": "Crisi e controversie",
+      "subtitle": "1871: i Calderoni; 1885: Greywick",
+      "theory": [
+        "La crisi dei Calderoni del 1871 offre, nel programma, un riferimento al rapporto tra produzione e affidabilità degli strumenti. Il materiale non fornisce una ricostruzione tecnica completa: non si attribuiscono quindi al caso un difetto preciso, un numero di incidenti o responsabilità personali non documentate.",
+        "Il Caso Greywick del 1885 avvicina lo studio della responsabilità al presente. Permette di discutere una controversia nella quale rischi e benefici della ricerca richiedono valutazione. Anche qui il valore didattico non autorizza a inventare il contenuto di un esperimento o l’esito di un giudizio.",
+        "Le discussioni possono usare esempi immaginari, purché restino distinguibili dagli eventi del programma. Il sesto anno si conclude applicando lo stesso criterio alla storia economica e scientifica: ricostruire ciò che era noto, le alternative considerate e i limiti delle prove disponibili."
+      ],
+      "notions": [
+        [
+          "Informazione incompleta",
+          "Un nome e una data possono essere certi nel programma senza rendere noti tutti i dettagli della vicenda."
+        ],
+        [
+          "Giudizio retrospettivo",
+          "Conoscere un esito non significa che i protagonisti potessero prevederlo con le stesse informazioni."
+        ],
+        [
+          "Esempio e avvenimento",
+          "Un calderone difettoso descritto in aula può illustrare un problema senza ricostruire la crisi del 1871."
+        ]
+      ],
+      "opening": "Quando emergono segnalazioni contrastanti, è sufficiente difendere la reputazione di chi produce o ricerca?",
+      "steps": [
+        "Presentare un caso immaginario di segnalazioni su uno strumento e distinguere osservazioni da ipotesi di causa.",
+        "Chiedere quali verifiche servano e quali decisioni richiedano ancora informazioni.",
+        "Confrontare il ragionamento con 1871 e 1885, dichiarando i particolari che il programma non fornisce."
+      ],
+      "question": "Un buon esempio didattico diventa automaticamente una fonte sul caso storico?",
+      "answer": "No. Aiuta a ragionare, ma non aggiunge fatti all’avvenimento. Occorre mantenere riconoscibile la sua natura immaginaria.",
+      "source": "Programma, lezione 12."
+    },
+    {
+      "year": 7,
+      "meeting": 1,
+      "week": 1,
+      "title": "Chi scrive la storia?",
+      "subtitle": "Autori, archivi e selezione",
+      "theory": [
+        "La storia viene ricostruita attraverso testimonianze conservate in modo diseguale. Uffici, famiglie e singoli individui non producono la stessa quantità di documenti e non possiedono le stesse possibilità di conservarli. Un archivio ricco non contiene necessariamente tutte le voci della comunità.",
+        "Chi scrive seleziona fatti e parole. Un documento può essere autentico e offrire una prospettiva limitata. La domanda sull’autore riguarda competenze, posizione e possibilità di osservazione; non permette di dichiarare falso un testo soltanto perché il suo autore aveva un interesse.",
+        "Anche l’assenza richiede prudenza. Un’informazione può mancare perché non fu registrata, perché andò perduta oppure perché non è accessibile. Non se ne ricava automaticamente una censura. Il lavoro dello storico consiste nel rendere trasparenti le condizioni della propria ricostruzione."
+      ],
+      "notions": [
+        [
+          "Autore e destinatario",
+          "Sapere chi scrive e per chi aiuta a comprendere scelte e linguaggio del documento."
+        ],
+        [
+          "Silenzio della fonte",
+          "Non tutti i documenti sono destinati a registrare ogni aspetto di un evento."
+        ],
+        [
+          "Riscontro indipendente",
+          "Due testi che copiano la stessa notizia non equivalgono necessariamente a due testimonianze autonome."
+        ]
+      ],
+      "opening": "Un archivio che conserva soprattutto le decisioni dei funzionari racconta allo stesso modo la vita di tutti?",
+      "steps": [
+        "Scegliere una decisione scolastica immaginaria e indicare tre possibili documenti prodotti da persone diverse.",
+        "Descrivere che cosa ciascun autore potrebbe conoscere direttamente.",
+        "Elencare una conclusione sostenibile e una che richiederebbe altre fonti."
+      ],
+      "question": "Una fonte interessata deve essere sempre scartata?",
+      "answer": "No. Il suo interesse va riconosciuto e confrontato con il contenuto e con altri riscontri. Non rende automaticamente falsa ogni informazione.",
+      "source": "Programma, lezione 13."
+    },
+    {
+      "year": 7,
+      "meeting": 2,
+      "week": 1,
+      "title": "Il laboratorio degli archivisti",
+      "subtitle": "Confrontare documenti senza inventare una soluzione",
+      "theory": [
+        "Per un esercizio si possono predisporre fonti di provenienza assunta come autentica. Questa convenzione non rende vere tutte le informazioni contenute. Il confronto serve a distinguere ciò che un documento afferma, ciò che permette di concludere e ciò che il lettore vi aggiunge.",
+        "Nel fascicolo didattico del programma, un registro del 1732 descrive la continuità generale delle lezioni; una lettera menziona alcuni corridoi chiusi. Le due informazioni non sono necessariamente incompatibili. La chiusura locale può coesistere con un’attività scolastica regolare, senza che questo riveli il motivo della chiusura.",
+        "Un secondo gruppo di documenti immaginari, datati 1874 per l’esercizio, riguarda una proposta sulle botteghe. Un articolo descrive opinioni contrarie, un ufficio segnala una valutazione in corso e una testimonianza privata riferisce timori familiari. Nessuna di queste notizie dimostra da sola che la proposta sia stata approvata o che abbia prodotto gli effetti temuti."
+      ],
+      "notions": [
+        [
+          "Fascicolo di esercitazione",
+          "Le date 1732 e 1874 identificano materiali didattici immaginari, non nuovi avvenimenti ufficiali."
+        ],
+        [
+          "Apparente contraddizione",
+          "Due fonti possono descrivere livelli diversi della stessa situazione."
+        ],
+        [
+          "Proposta e decisione",
+          "Il dibattito su un provvedimento non prova la sua approvazione."
+        ]
+      ],
+      "opening": "Lezioni regolari e corridoi chiusi possono essere descrizioni entrambe corrette?",
+      "steps": [
+        "Dividere la classe tra i fascicoli 1732 e 1874, usando i riassunti della pagina come documenti di esercitazione.",
+        "Per ciascun gruppo compilare tre colonne: affermato, deducibile, ignoto.",
+        "Confrontare i risultati senza cercare una causa segreta o un esito non fornito."
+      ],
+      "question": "L’autenticità convenzionale della provenienza rende infallibile il contenuto?",
+      "answer": "No. Anche nell’esercizio, provenienza e attendibilità delle singole affermazioni devono essere distinte.",
+      "source": "Programma, lezione 13, fascicolo didattico; riassunti rielaborati."
+    },
+    {
+      "year": 7,
+      "meeting": 3,
+      "week": 2,
+      "title": "Alaric Wren e l’ipotesi del 1883",
+      "subtitle": "Descrivere una teoria senza trasformarla in certezza",
+      "theory": [
+        "Alaric Wren nacque nel 1841 e studiò, secondo il programma, le descrizioni degli incantesimi in fonti appartenenti a epoche diverse. Le variazioni osservate potevano dipendere da trascrizioni, interpretazioni o condizioni non ricostruite. Il confronto dei testi apriva quindi domande, non una conclusione immediata.",
+        "Nel 1883 Wren propose che la magia potesse cambiare lentamente nel tempo. La comunità accademica reagì in modi differenti: interesse per la domanda e obiezioni sulla sufficienza delle prove. Il programma non presenta l’ipotesi come una legge dimostrata né come una capacità speciale acquisibile dagli studenti.",
+        "Una teoria non dimostrata non è automaticamente falsa; una teoria interessante non è automaticamente vera. Lo storico deve descriverne contenuto, ricezione e limiti, senza scegliere la conclusione in base alla simpatia per il ricercatore o al carattere suggestivo della proposta."
+      ],
+      "notions": [
+        [
+          "Variazione dei testi",
+          "Descrizioni diverse non identificano da sole la causa della differenza."
+        ],
+        [
+          "Ipotesi",
+          "È una spiegazione da mettere alla prova, distinta da un risultato già accertato."
+        ],
+        [
+          "Ricezione",
+          "Le reazioni degli studiosi fanno parte della storia della proposta, senza sostituire l’esame delle prove."
+        ]
+      ],
+      "opening": "Due testi che descrivono diversamente un effetto dimostrano già che sia cambiata la magia?",
+      "steps": [
+        "Elencare tre spiegazioni possibili per una differenza tra descrizioni antiche e recenti.",
+        "Scrivere la proposta del 1883 come ipotesi attribuita a Wren.",
+        "Separare il contenuto della teoria dal giudizio che se ne può dare con i materiali disponibili."
+      ],
+      "question": "Una spiegazione non dimostrata deve essere considerata subito falsa?",
+      "answer": "No. Può rimanere aperta alla ricerca. Questo non autorizza a presentarla come conoscenza dimostrata.",
+      "source": "Programma, lezione 14."
+    },
+    {
+      "year": 7,
+      "meeting": 4,
+      "week": 2,
+      "title": "Il Caso Wren",
+      "subtitle": "1887–1890: scrivere una storia ancora aperta",
+      "theory": [
+        "L’ultima presenza confermata di Alaric Wren risale al 14 novembre 1887. Il 3 dicembre dello stesso anno venne aperto formalmente il caso sulla sua scomparsa. Le autorità acquisirono parte della documentazione di ricerca, ma le informazioni riportate nel programma non consentono di stabilirne la sorte.",
+        "La successione fra controversia accademica e scomparsa non dimostra un rapporto causale. Allontanamento volontario, incidente o intervento altrui restano possibilità non accertate; non costituiscono conclusioni equivalenti a un fatto. L’acquisizione di documenti non ne rivela automaticamente contenuto e rilevanza.",
+        "Nel 1890 si può studiare il caso dichiarando ciò che è disponibile e ciò che rimane ignoto. Una ricostruzione parziale ma trasparente vale più di una spiegazione completa inventata. Il percorso dei sette anni termina qui: comprendere il passato significa anche riconoscere quando le fonti non permettono di chiudere una domanda."
+      ],
+      "notions": [
+        [
+          "Cronologia certa del programma",
+          "14 novembre: ultima presenza confermata; 3 dicembre: apertura formale. Sono eventi diversi."
+        ],
+        [
+          "Fonte non consultabile",
+          "Un documento può esistere senza essere accessibile; la limitazione non dimostra da sola un occultamento."
+        ],
+        [
+          "Conclusione aperta",
+          "Dichiarare l’incertezza non impedisce di ricostruire la parte documentata di una vicenda."
+        ]
+      ],
+      "opening": "Si può scrivere una pagina di storia senza conoscere la soluzione finale del caso?",
+      "steps": [
+        "Redigere un resoconto breve con le due date del 1887 e la situazione delle prove.",
+        "Eliminare ogni frase che presenti una causa non dimostrata come certa.",
+        "Concludere con una domanda aperta e una fonte che sarebbe utile consultare, senza inventarne il contenuto."
+      ],
+      "question": "La teoria controversa e la scomparsa dimostrano che Wren fu fatto tacere?",
+      "answer": "No. Il collegamento causale richiederebbe prove ulteriori. I fatti disponibili consentono una cronologia prudente, non una soluzione della scomparsa.",
+      "source": "Programma, lezione 14; orizzonte del volume: 1890."
+    }
+  ]
+}
