@@ -1,0 +1,22 @@
+/* Tema della materia: sfondo esterno, comandi e linguette. */
+:root{
+ --theme-deep:#070f1c;--theme-mid:#182d48;--theme-light:#35567c;
+ --theme-ui:#1c304c;--theme-bar:#0d1b2e;--theme-tab:#294464;--theme-ink:#243b56;
+ --green:var(--theme-tab);--deep:var(--theme-deep);--wood:var(--theme-mid);--ui:var(--theme-ui);
+}
+body{
+ background:radial-gradient(ellipse at 50% 42%,var(--theme-light) 0,transparent 68%),
+ linear-gradient(145deg,var(--theme-deep),var(--theme-mid) 58%,var(--theme-deep));
+}
+.viewport{background:radial-gradient(ellipse at 50% 48%,transparent 35%,var(--theme-deep) 100%);scrollbar-color:#8f7846 var(--theme-deep)}
+.top,.bottom{background:linear-gradient(180deg,var(--theme-ui),var(--theme-bar))}
+button,select,.reader-options summary{background:var(--theme-bar)}
+button:hover,select:hover,.top button:hover,.reader-options summary:hover{background:var(--theme-tab)}
+.options-content{background:var(--theme-ui)}
+.ribbon-tabs button{background:linear-gradient(90deg,var(--theme-bar),var(--theme-tab))}
+.ribbon-tabs button:hover,.ribbon-tabs button[aria-current="page"]{background:#795d32}
+.page:not(.blank){box-shadow:0 2px 0 #d7cbae,0 4px 0 #a89878,0 6px 0 #e1d6bb,0 8px 0 #847357,0 12px 0 var(--theme-tab)!important}
+.page[data-kind="cover"]{box-shadow:inset 0 0 0 2px #b59a61,2px 4px 0 var(--theme-ui),4px 9px 0 var(--theme-deep)!important}
+dialog::backdrop{background:var(--theme-deep);opacity:.88}
+dialog#reader-index,#book-search,#reader-index button{color:var(--theme-ink)}
+#reader-index button:hover,#reader-index button[aria-pressed="true"]{background:var(--theme-tab);color:#f1e7c9}
